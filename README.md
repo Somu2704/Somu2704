@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somashekhar MS</h1>
 <h3 align="center">Full-Stack Developer | Cloud & DevOps Enthusiast | MERN | AWS | Docker | Kubernetes | Linux | DSA</h3>
 
+<p align="center">
+  <img src="assets/student-coding.gif" alt="Cartoon student coding" width="400" />
+</p>
 
 ---
 
@@ -31,15 +34,6 @@
 ### 🔹 SmartHire - AI Hiring Platform  
 > Automates resume parsing, scheduling, and evaluation using NLP & Gemini API  
 > 🚀 Tech: React, Node, Firebase, Gemini API, Express.js
-
-### 🔹 Cloud-Based File Storage System  
-> Secure file uploads with AWS S3, IAM, SES and permission-based access  
-> 🚀 Tech: Node, Express, AWS, MongoDB, JWT
-
-### 🔹 Real-Time Bus Booking System  
-> Online ticket booking with live seat tracking & Cashfree payments  
-> 🚀 Tech: MERN, Tailwind, JWT, REST APIs
-
 ---
 
 📜 **Certifications & Achievements**
