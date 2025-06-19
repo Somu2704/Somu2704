@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somashekhar MS</h1>
-<h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🖥️ MERN | AWS | Docker | Kubernetes | 🐧 Linux | 📊 DSA</h3>
+<h3 align="center"> Full-Stack Developer | Cloud & DevOps  | MERN | AWS | Docker | Kubernetes |  Linux </h3>
 
 <div align="center">
   <img src="assets/student-coding.gif" width="400" alt="Realistic student coding" />
